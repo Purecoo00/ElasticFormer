@@ -1,0 +1,11 @@
+ElasticFormer
+Copyright 2026 ElasticFormer authors.
+
+Global/local sparse attention and PANDA evaluation are derived from
+liwenxi/SparseFormer (https://github.com/liwenxi/SparseFormer), Apache-2.0.
+
+Patch embedding/merging, shifted-window attention, detector integration and
+training/testing launchers use MMDetection/MMCV/MMEngine by OpenMMLab,
+Apache-2.0. Swin Transformer components credit Microsoft and OpenMMLab.
+
+See LICENSE for the Apache License, Version 2.0.

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "elastic-former"
+version = "0.1.0"
+description = "ElasticFormer: Elastic Computing Vision Transformer for HRW Object Detection"
+requires-python = ">=3.9"
+license = {text = "Apache-2.0"}
+
+[tool.setuptools.packages.find]
+include = ["elastic_former*"]
