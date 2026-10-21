@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 320" role="img" aria-labelledby="title desc">
+<title id="title">ElasticFormer — CVPR 2026</title>
+<desc id="desc">Elastic computing for efficient object detection in high-resolution, wide-field images.</desc>
+<rect width="1600" height="320" rx="20" fill="#182331"/>
+<rect x="64" y="44" width="5" height="22" rx="2" fill="#DCAA7D"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="84" y="62" font-size="21" font-weight="700" letter-spacing="3" fill="#E7B88E">CVPR 2026</text>
+<text x="64" y="157" font-size="84" font-weight="700" letter-spacing="-2" fill="#F5F3EE">ElasticFormer</text>
+<text x="68" y="211" font-size="28" fill="#D7DEE5">Efficient object detection in HRW shots</text>
+<text x="68" y="267" font-size="18" letter-spacing="2" fill="#A8B4C2">ELASTIC COMPUTING</text>
+<path d="M1090 48 V267" stroke="#435166"/>
+<rect x="1175" y="48" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1224" y="48" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1273" y="48" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1322" y="48" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1371" y="48" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1420" y="48" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1175" y="97" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1224" y="97" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1273" y="97" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1322" y="97" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1371" y="97" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1420" y="97" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1175" y="146" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1224" y="146" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1273" y="146" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1322" y="146" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1371" y="146" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1420" y="146" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1175" y="195" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1224" y="195" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1273" y="195" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1322" y="195" width="38" height="38" rx="6" fill="#DCAA7D" stroke="#E7B88E"/><rect x="1371" y="195" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/><rect x="1420" y="195" width="38" height="38" rx="6" fill="#263447" stroke="#435166"/>
+<text x="1304" y="274" text-anchor="middle" font-size="14" letter-spacing="1.2" fill="#A8B4C2">GLOBAL + LOCAL ATTENTION</text>
+</g>
+</svg>
